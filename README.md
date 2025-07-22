@@ -9,7 +9,7 @@
 [comment]: <![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zetrox17&theme=github_dark)>
 
 # 💻 Tech-Stack
-### ︱ Sprachen
+### ︱ Languages
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -33,7 +33,7 @@
 <img align="left" alt="RegEx" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/OOjs_UI_icon_regular-expression-progressive.svg/2048px-OOjs_UI_icon_regular-expression-progressive.svg.png" />
 <br />
 
-### ︱ Am lernen
+### ︱ Currently learning
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bash_Logo_White.svg/1024px-Bash_Logo_White.svg.png" />
 <img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
 <img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
