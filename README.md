@@ -32,7 +32,6 @@
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 <img align="left" alt="Confluence" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" />
 <img align="left" alt="Hetzner" width="30px" style="padding-right:10px;" src="https://cdn.brandfetch.io/idkVHRqi9K/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1752450689878" />
-<img align="left" alt="RegEx" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/OOjs_UI_icon_regular-expression-progressive.svg/2048px-OOjs_UI_icon_regular-expression-progressive.svg.png" />
 <br />
 
 ### ︱ Currently learning
